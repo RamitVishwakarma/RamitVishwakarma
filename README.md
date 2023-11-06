@@ -1,4 +1,5 @@
-### Hello I am Ramit a MERN stack enthusiast and a competetive programmer and also an open source contributor
+### 
+Greetings! I'm Ramit, an avid MERN stack enthusiast, competitive programmer, and an active contributor to open source projects.
 
 <!--
 **RamitVishwakarma/RamitVishwakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
