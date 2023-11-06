@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello I am Ramit a MERN stack enthusiast and a competetive programmer and also an open source contributor
 
 <!--
 **RamitVishwakarma/RamitVishwakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## Here is my Hacktober 2023 badges
 [![An image of @ramitvishwakarma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ramitvishwakarma)](https://holopin.io/@ramitvishwakarma)
