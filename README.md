@@ -61,7 +61,7 @@ I focus on **React & Next.js** products, shipping production UIs and end‑to‑
 
 ## GitHub Snapshot
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=RamitVishwakarma&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamitVishwakarma&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="GitHub Stats" />
 </p>
 
 ---
