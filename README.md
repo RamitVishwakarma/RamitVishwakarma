@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1 style="margin-bottom:0.2rem">👋 Hi, I'm <strong>Ramit Vishwakarma</strong></h1>
-  <p style="margin-top:0.2rem"><em>Frontend / Full-Stack Engineer — building fast, accessible, and delightful web experiences.</em></p>
+  <p style="margin-top:0.2rem"><em>Frontend / Full-Stack Engineer — building fast, accessible, and performant web experiences.</em></p>
   <p>
     <a href="https://ramitvishwakarma.in">Website</a> •
     <a href="https://www.linkedin.com/in/vishwakarmaramit">Linkedin</a> •
