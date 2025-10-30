@@ -4,8 +4,8 @@
   <p style="margin-top:0.2rem"><em>Frontend / Full-Stack Engineer — building fast, accessible, and delightful web experiences.</em></p>
   <p>
     <a href="https://ramitvishwakarma.in">Website</a> •
-    <a href="https://github.com/RamitVishwakarma">GitHub</a> •
-    <a href="mailto:your-email@example.com">Email</a>
+    <a href="https://www.linkedin.com/in/vishwakarmaramit">Linkedin</a> •
+    <a href="mailto:vishwakarmaramit@gmail.com">Email</a>
   </p>
 </div>
 
