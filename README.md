@@ -69,4 +69,4 @@ I focus on **React & Next.js** products, shipping production UIs and end‑to‑
 ## Let’s talk
 - **Website:** https://ramitvishwakarma.in  
 - **GitHub:** https://github.com/RamitVishwakarma  
-- **Email:** your-email@example.com *(replace before publishing)*
+- **Email:** vishwakarmaramit@gmail.com
