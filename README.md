@@ -59,14 +59,14 @@ I focus on **React & Next.js** products, shipping production UIs and end‑to‑
 
 ---
 
-## GitHub Snapshot
+## GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamitVishwakarma&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="GitHub Stats" />
 </p>
 
 ---
 
-## ✉️ Let’s talk
+## Let’s talk
 - **Website:** https://ramitvishwakarma.in  
 - **GitHub:** https://github.com/RamitVishwakarma  
 - **Email:** your-email@example.com *(replace before publishing)*
